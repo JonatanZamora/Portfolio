@@ -1,0 +1,26 @@
+
+
+.main-container{
+
+                display: grid;
+                grid-template-columns: repeat(4 1fr);
+
+
+}
+
+/*
+.flex-item{  
+            display: flex;
+            border: solid red 2px;
+            width:200px;
+            height:200px;
+
+
+}   */
+
+
+ img{
+
+width: 100px; height: 100px;
+
+}
